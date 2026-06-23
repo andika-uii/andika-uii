@@ -10,9 +10,13 @@
 
 ###
 
-<h2 data-importer="text" align="left">Stack:</h2>
+<br clear="both">
+
+<h4 data-importer="text" align="left">Stack:</h4>
 
 ###
+
+<br clear="both">
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,30 +44,15 @@
 
 ###
 
-<h2 data-importer="text" align="left">Connect with me:</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/andikatahang" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/andikatahangg?igsh=cGd0am0zYjk5d2sz&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <h2 data-importer="text" align="center">Github Activity</h2>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/andika-uii/andika-uii/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/andika-uii/andika-uii/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=andika-uii&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=30&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/andika-uii/andika-uii/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/andika-uii/andika-uii/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/andika-uii/andika-uii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andika-uii&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=30&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/andika-uii/andika-uii/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
