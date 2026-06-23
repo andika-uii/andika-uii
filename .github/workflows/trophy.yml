@@ -23,18 +23,8 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           theme: darkhub
-          rank: SECRET,SSS,SS,S,AAA,AA,A,B,C
-          margin-w: 8
-          margin-h: 8
-          no-bg: true
-          no-frame: true
-
-      - name: move trophy to dist directory
-        run: |
-          mkdir -p dist
-          if [ -f "github-profile-trophy.svg" ]; then
-            mv github-profile-trophy.svg dist/trophy.svg
-          fi
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
