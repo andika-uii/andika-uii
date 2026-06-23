@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate trophy.svg
-        uses: ryo-ma/github-profile-trophy@v2
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
           theme: darkhub
